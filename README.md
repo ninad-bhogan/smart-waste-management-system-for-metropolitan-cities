@@ -253,17 +253,17 @@ Distance is calculated using the **Haversine Formula** for accurate GPS-based di
 
 ## 🔗 Project Resources
 
-* 💻 Source Code Repository: [https://github.com/spsourabh17/smart-waste-management-system-for-metropolitan-cities](https://github.com/spsourabh17/smart-waste-management-system-for-metropolitan-cities)
-* 🎥 Watch the Full Project Demo Video: [(https://drive.google.com/file/d/1sjxZNxwOZEODcNOUJlsZnVwx4eiI0D23/view?usp=drive_link)](https://drive.google.com/file/d/1sjxZNxwOZEODcNOUJlsZnVwx4eiI0D23/view?usp=drive_link)
+* 💻 Source Code Repository: [https://github.com/ninad-bhogan/smart-waste-management-system-for-metropolitan-cities](https://github.com/ninad-bhogan/smart-waste-management-system-for-metropolitan-cities)
+* 🎥 Watch the Full Project Demo Video: [(https://youtu.be/_qfFzIaxWZQ?si=XZsR-a4UkCEVsTMY)](https://youtu.be/_qfFzIaxWZQ?si=XZsR-a4UkCEVsTMY)
 
 ---
 
 ## 👨‍💻 Author
 
-**Sourabh Patil**
+**Ninad Bhogan**
 
-* 🔗 GitHub: [https://github.com/spsourabh17](https://github.com/spsourabh17)
-* 💼 LinkedIn: [https://www.linkedin.com/in/sourabh-patil-5242402b7](https://www.linkedin.com/in/sourabh-patil-5242402b7)
+* 🔗 GitHub: [https://github.com/ninad-bhogan)
+* 💼 LinkedIn: [https://www.linkedin.com/in/ninad-bhogan-82266b240](https://www.linkedin.com/in/ninad-bhogan-82266b240)
 
 ---
 
