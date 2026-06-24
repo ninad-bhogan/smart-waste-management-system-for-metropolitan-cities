@@ -262,7 +262,7 @@ Distance is calculated using the **Haversine Formula** for accurate GPS-based di
 
 **Ninad Bhogan**
 
-* 🔗 GitHub: [https://github.com/ninad-bhogan)
+* 🔗 GitHub: [https://github.com/ninad-bhogan](https://github.com/ninad-bhogan)
 * 💼 LinkedIn: [https://www.linkedin.com/in/ninad-bhogan-82266b240](https://www.linkedin.com/in/ninad-bhogan-82266b240)
 
 ---
